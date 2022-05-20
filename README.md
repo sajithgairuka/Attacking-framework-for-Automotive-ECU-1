@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/104394666/169422547-0d20a11b-65c3-4098
 
 # Acknowledgement for contributions:
 
-* [Craig Smith](https://github.com/zombieCraig) -> author of The Car Hacker's Handbook
+* [Craig Smith](https://github.com/zombieCraig) -> Author of The Car Hacker's Handbook
 
 * Charlie Miller : https://twitter.com/0xcharlie
 
