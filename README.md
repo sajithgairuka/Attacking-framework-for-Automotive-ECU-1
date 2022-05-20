@@ -14,12 +14,12 @@ https://user-images.githubusercontent.com/104394666/169419357-aef9ea7c-c994-4995
 https://user-images.githubusercontent.com/104394666/169421448-b87a3021-2809-4a3a-b41b-313b15eaad95.mp4
 
 
-# Arduino Setup With CANDUMP Command (represent as ECU - Victim)
+# Arduino Setup With CANDUMP Command
 
 https://user-images.githubusercontent.com/104394666/169422161-ec8d5c48-e9c6-4714-8659-0a5ef461186e.mp4
 
 
-# Fuzzing and Random Attack testing to the Arduino CAN Bus Module (represent as ECU - Victim)
+# Fuzzing and Random Attack testing to the Arduino CAN Bus Module
 
 https://user-images.githubusercontent.com/104394666/169422547-0d20a11b-65c3-4098-bc68-6feb48438b89.mp4
 
