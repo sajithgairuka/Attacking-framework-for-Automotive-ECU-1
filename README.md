@@ -36,3 +36,5 @@ https://github.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/blob/m
 ![arduino_canbus_module](https://user-images.githubusercontent.com/104394666/169423492-2c27e8a7-81a5-4efd-a3b6-d99777760da9.jpg)
 
 ![simple_lighting_setup](https://user-images.githubusercontent.com/104394666/169423573-5eaf22f2-4005-45e0-af37-6ea1ee7cb3e6.jpg)
+
+# I used this [references](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources/references.txt) to create my framework 
