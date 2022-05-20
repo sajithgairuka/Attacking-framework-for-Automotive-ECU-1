@@ -38,6 +38,13 @@ https://user-images.githubusercontent.com/104394666/169422547-0d20a11b-65c3-4098
 ![simple_lighting_setup](https://user-images.githubusercontent.com/104394666/169423573-5eaf22f2-4005-45e0-af37-6ea1ee7cb3e6.jpg)
 
 # Acknowledgement for contributions:
+
+* [Craig Smith](https://github.com/zombieCraig) -> author of The Car Hacker's Handbook
+
+* Charlie Miller : https://twitter.com/0xcharlie
+
+* Chris Valasek : https://twitter.com/nudehaberdasher
+
 * I used these [references](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources/references.txt) to create my framework.
 
 * [ConsoleCowboys](https://www.youtube.com/c/ConsoleCowboys) (clear instruction on how to use the car hacking tool) -> [Hacking Automobiles Playlist](https://www.youtube.com/watch?v=y-y6CixqUSs&list=PLCwnLq3tOElrdkQy_daR4wr9lJCt8c_C6&index=6)
