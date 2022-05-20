@@ -47,4 +47,4 @@ https://user-images.githubusercontent.com/104394666/169422547-0d20a11b-65c3-4098
 
 * [ConsoleCowboys](https://www.youtube.com/c/ConsoleCowboys) (clear instruction on how to use the car hacking tool) -> [Hacking Automobiles Playlist](https://www.youtube.com/watch?v=y-y6CixqUSs&list=PLCwnLq3tOElrdkQy_daR4wr9lJCt8c_C6&index=6)
 
-* These [references](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources/references.txt) also help full to create my framework. 
+* These [references](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources/references.txt) also help full to create my framework. 
