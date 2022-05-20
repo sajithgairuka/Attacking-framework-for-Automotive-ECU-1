@@ -37,4 +37,4 @@ https://github.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/blob/m
 
 ![simple_lighting_setup](https://user-images.githubusercontent.com/104394666/169423573-5eaf22f2-4005-45e0-af37-6ea1ee7cb3e6.jpg)
 
-# I used this [references](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources/references.txt) to create my framework 
+# I used these [references](https://raw.githubusercontent.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/main/resources/references.txt) to create my framework 
