@@ -28,14 +28,23 @@ https://user-images.githubusercontent.com/104394666/169422547-0d20a11b-65c3-4098
 
 ![canbus_attacker](https://user-images.githubusercontent.com/104394666/169423072-ef054b29-128b-4920-8b3b-13e0b28c099a.jpg)
 
+## Schematic View of MCP2515 with Raspberry pi
+
+![Schematic View of MCP2515 with Raspberry pi
+](https://user-images.githubusercontent.com/104394666/170825353-95fbadb9-b266-4d6d-a7b5-c512e2e1a310.png)
 
 # Arduino Uno with CAN Bus Module (represent as ECU - Victim) :
-[Arduino Uno with CAN Bus Module Code](https://github.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/blob/main/virtual_ECU_mcp2515/virtual_ECU_mcp2515.ino)
 
+[Arduino Uno with CAN Bus Module Code](https://github.com/sajithgairuka/Attacking-framework-for-Automotive-ECU-1/blob/main/virtual_ECU_mcp2515/virtual_ECU_mcp2515.ino)
 
 ![arduino_canbus_module](https://user-images.githubusercontent.com/104394666/169423492-2c27e8a7-81a5-4efd-a3b6-d99777760da9.jpg)
 
 ![simple_lighting_setup](https://user-images.githubusercontent.com/104394666/169423573-5eaf22f2-4005-45e0-af37-6ea1ee7cb3e6.jpg)
+
+## Schematic View of Arduino Uno with CAN Bus Module
+
+![Schematic View of Arduino Based ECU
+](https://user-images.githubusercontent.com/104394666/170825383-9d4d02f9-585d-4339-8743-95ea571d984c.png)
 
 # Acknowledgement for contributions:
 
